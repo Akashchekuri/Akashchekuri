@@ -46,7 +46,7 @@
 
 ### 🚀 My Projects
 
-- **Project 1:** [Add Your First Project Repository Link]
+- **Project 1:** [https://github.com/Akashchekuri/wifi-network-monitor]
 - **Project 2:** [Add Your Second Project Repository Link]
 
 ### 📚 Currently Learning
