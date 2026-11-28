@@ -47,7 +47,7 @@
 ### 🚀 My Projects
 
 - **Project 1:** [https://github.com/Akashchekuri/wifi-network-monitor]
-- **Project 2:** [Add Your Second Project Repository Link]
+- **Project 2:** [https://github.com/Akashchekuri/WIFI-Traffic-Analyzer]
 
 ### 📚 Currently Learning
 
