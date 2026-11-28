@@ -57,17 +57,7 @@
 - Network Performance Testing
 - LANforge Products and Solutions
 
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <i>Learning continuously. Building practically. Growing professionally.</i>
 </p>## Hi there 👋
 
 <!--
